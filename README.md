@@ -211,6 +211,4 @@ If you're building something meaningful, let's talk.
 
 *"First, solve the problem. Then, write the code."*
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer)
-
 </div>
